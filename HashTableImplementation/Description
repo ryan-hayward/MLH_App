@@ -1,0 +1,3 @@
+This folder contains a hash table implementation that I did for a university
+project. The custom-built hashtable extends the Comparable interface and 
+extends a pre-defined HashTable abstract data type.
